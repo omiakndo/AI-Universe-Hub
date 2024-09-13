@@ -1,0 +1,77 @@
+.titel{color: #111;
+
+    text-align: center;
+    font-family: "Work Sans";
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;}
+
+.soft-btn{
+    width: 180px;
+height: 72px;
+flex-shrink: 0;
+background: #EB5757;
+border-radius: 16px;
+}
+.footer{
+    color: #111;
+
+text-align: center;
+font-family: "Work Sans";
+font-size: 25px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+
+}
+
+.btn-details{
+    background-color: #FEF7F7;
+    
+    border-radius: 15px;
+}
+.card{
+    border-radius: 16px;
+border: 1px solid rgba(17, 17, 17, 0.10);
+background: #FFF;
+padding: 9px;
+box-shadow: h-offset v-offset blur spread color inset;
+}
+.membership{
+    
+flex-shrink: 0;
+border-radius: 16px;
+background: #FFF;
+}
+.ten{
+    color: #03A30A;
+
+text-align: center;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.fifteen{
+    color: #F28927;
+
+text-align: center;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.contact{
+    color: #EB5757;
+
+text-align: center;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+}
